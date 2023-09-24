@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1boraoner
 - 👀 I’m interested in Machine Learning and Deep Learning 
-- 🌱 I’m currently learning Recurrent Neural Networks and Text data processing
+- 🌱 I’m currently working on Graph Neural Networks and their applications
 - 📫 How to reach me: bora.oner39@gmail.com
 
 <!---
